@@ -34,3 +34,7 @@ Translation: Each codon is matched with its corresponding amino acid using the d
 Start and Stop Identification: ATG is identified as the start codon, while TAA, TAG and TGA are identified as stop codons.
 Incomplete Codon Handling: Any remaining one or two nucleotides are displayed separately and are not translated.
 Output Display: The complete codon table and translation results are displayed.
+
+5. Sample Input
+
+ATGGCTTTTTAA
