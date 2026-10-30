@@ -38,3 +38,9 @@ Output Display: The complete codon table and translation results are displayed.
 5. Sample Input
 
 ATGGCTTTTTAA
+6. Expected Output
+Codons: ATG – GCT – TTT – TAA
+Amino Acids: Methionine – Alanine – Phenylalanine – Stop
+Start Codon: ATG
+Stop Codon: TAA
+Incomplete Codon: None
