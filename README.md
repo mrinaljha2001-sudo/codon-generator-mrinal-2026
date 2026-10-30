@@ -21,3 +21,16 @@ Programming Language: Python
 Code Editor: Visual Studio Code
 Version Control: Git
 Code Hosting Platform: GitHub
+4. Methodology
+
+The project follows these steps:
+
+Codon Table Creation: A Python dictionary is created containing all 64 codons and their corresponding amino acids.
+Sequence Input: The user enters a DNA or RNA nucleotide sequence.
+Input Validation: The program checks whether the sequence contains valid nucleotide characters.
+RNA Conversion: RNA sequences containing uracil (U) are converted into the corresponding DNA format by replacing U with T.
+Codon Identification: The sequence is divided into groups of three nucleotides.
+Translation: Each codon is matched with its corresponding amino acid using the dictionary.
+Start and Stop Identification: ATG is identified as the start codon, while TAA, TAG and TGA are identified as stop codons.
+Incomplete Codon Handling: Any remaining one or two nucleotides are displayed separately and are not translated.
+Output Display: The complete codon table and translation results are displayed.
