@@ -44,3 +44,28 @@ Amino Acids: Methionine – Alanine – Phenylalanine – Stop
 Start Codon: ATG
 Stop Codon: TAA
 Incomplete Codon: None
+7. GitHub Codon Table Comparison
+
+The custom codon table developed in this project was compared with the standard genetic code implemented in the GitHub repository:
+
+Reference Repository: linsalrob/genetic_codes
+
+https://github.com/linsalrob/genetic_codes
+
+The reference repository provides Python and C implementations for translating DNA sequences using NCBI genetic code tables.
+
+Comparison:
+
+Parameter	Our Project	GitHub Reference
+Standard genetic code	Yes	Yes
+Number of codons	64	64 in standard code
+Codon mapping	Python dictionary	Genetic code tables
+DNA translation	Yes	Yes
+RNA translation	Yes, through U-to-T conversion	Yes
+Alternative genetic codes	No	Yes
+
+Observation:
+
+Both implementations use the standard genetic code for the 64 codons. The codon-to-amino-acid assignments are expected to match when the standard genetic code (NCBI translation table 1) is selected.
+
+Our project uses a simple dictionary-based approach, whereas the reference repository provides additional support for alternative genetic codes.
