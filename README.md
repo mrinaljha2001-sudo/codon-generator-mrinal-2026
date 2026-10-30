@@ -109,4 +109,4 @@ The Codon Table Generator successfully demonstrates how Python dictionaries, loo
 ### 12. References
 
 1. NCBI – The Genetic Codes: https://www.ncbi.nlm.nih.gov/datasets/docs/v2/data-processing/taxonomy-processing/genetic-codes/
-2. GitHub – Genetic Codes by Robert A. Edwards: https://github.com/linsalrob/genetic_codes
+2. GitHub – Genetic Codes by Robert A. Edwards: https://github.com/linsalrob/genetic_codes  
