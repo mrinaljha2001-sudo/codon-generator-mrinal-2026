@@ -15,3 +15,9 @@ Translate codons into their corresponding amino acids.
 Identify start and stop codons.
 Handle incomplete codons.
 Display the complete codon table and translation results.
+
+3. Tools and Technologies
+Programming Language: Python
+Code Editor: Visual Studio Code
+Version Control: Git
+Code Hosting Platform: GitHub
