@@ -69,3 +69,9 @@ Observation:
 Both implementations use the standard genetic code for the 64 codons. The codon-to-amino-acid assignments are expected to match when the standard genetic code (NCBI translation table 1) is selected.
 
 Our project uses a simple dictionary-based approach, whereas the reference repository provides additional support for alternative genetic codes.
+8. Applications
+Understanding the genetic code.
+Learning DNA and RNA translation.
+Basic bioinformatics sequence analysis.
+Understanding the relationship between nucleotide sequences and amino acids.
+Practising Python programming concepts.
