@@ -2,7 +2,7 @@
 
 ## Python Assessment 2 – M.Sc. Bioinformatics
 
-. Project Summary
+1. Project Summary
 
 The Codon Table Generator is a Python program that translates DNA and RNA nucleotide sequences into amino acids based on the standard genetic code.
 
